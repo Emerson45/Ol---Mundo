@@ -4,6 +4,6 @@
  Repositório criado durante uma aula ao vivo!
 
 Essa linha eu adicionei diretamente no site!  QUE  IMPRESSIONANTE!
-Nova alteração !
-Quero confirmar minha alteração !
-Alterei novamente!
+<p>Nova alteração !</p>
+<p>Quero confirmar minha alteração !</p>
+<p>Alterei novamente!</p>
