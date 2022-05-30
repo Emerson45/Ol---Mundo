@@ -6,3 +6,4 @@
 Essa linha eu adicionei diretamente no site!  QUE  IMPRESSIONANTE!
 <p> Do local para o remoto!</p>
 Do remoto para o local!
+<p>Reiniciando no gitHub</p>
